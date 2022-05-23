@@ -1,2 +1,3 @@
-00 - base ( no compact mapping )
-01 - perfectly compact mapping
+LayerScheduler_00 - base ( no compact mapping )
+
+LayerScheduler_01 - compact mapping
