@@ -1,7 +1,7 @@
 # SAGE_IMC
 An open-source framework for the IMC architecture design.
 
-SAGE-IMC consists of 
+The SAGE-IMC consists of 
 1. Architecture Template (./ArchitectureTemplate)
 2. DNN Mapper (./Scheduler)
 3. Performance Analysis Engine (./CircuitModule)
