@@ -6,7 +6,7 @@ The SAGE-IMC consists of
 2. DNN Mapper (./Scheduler)
 3. Performance Analysis Engine (./CircuitModule)
 
-Note taht the performance analysis engine (./CircuitModule) is based on [NeuroSim](https://github.com/neurosim/MLP_NeuroSim_V3.0).
+Note that the performance analysis engine (./CircuitModule) is based on [NeuroSim](https://github.com/neurosim/MLP_NeuroSim_V3.0).
 
 ## Requirements
 Conda environment required for the experiment is updated in 'environment.yml'.
