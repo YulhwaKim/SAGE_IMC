@@ -19,11 +19,11 @@ First, compile the C++ source code.
     
 Second, run python script to evaluate previous IMC accelerator design.
 
-    pythons script_evaluate_previous_arch.py
+    python script_evaluate_previous_arch.py
     
 Third, run python script to explore design space of IMC accelerators.
 
-    pythons script_dse.py
+    python script_dse.py
 
 ## Reference
 [1] P.-Y. Chen, X. Peng, S. Yu, “NeuroSim: A circuit-level macro model for benchmarking neuro-inspired architectures in online learning,” IEEE Trans. CAD,vol. 37, no. 12, pp. 3067-3080, 2018. Source code is Available at: https://github.com/neurosim/MLP_NeuroSim_V3.0.
