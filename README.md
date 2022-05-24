@@ -1,4 +1,4 @@
-# SAGE_IMC
+# SAGE-IMC
 An open-source framework for the IMC architecture design.
 
 The SAGE-IMC consists of 
